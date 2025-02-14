@@ -4,7 +4,7 @@ This Docker image provides an automated Java code formatter using Google Java Fo
 
 ## Features
 - Based on Amazon Corretto JDK 21
-- Pre-installed Google Java Format v1.17.0
+- Pre-installed Google Java Format v1.25.2
 - Includes Git for committing formatted files
 - Designed for GitLab CI/CD pipelines
 - Detects merge request pipelines and pushes to the correct branch
